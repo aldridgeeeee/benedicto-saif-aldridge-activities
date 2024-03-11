@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(243, 12, 12);
+}
+
+h1 {
+    font-size: 30px;
+    color: rgb(247, 223, 10);
+}
+
+h3 {
+    font-size: 20px;
+    color: rgb(11, 189, 26);
+}
+
+label {
+    background-color: rgb(171, 201, 240);
+}
+
+#userLabel {
+    font-size: 20px;
+    background-color: rgb(230, 221, 228);
+}
+
+#passLabel {
+    font-size: 20px;
+    background-color: rgb(247, 7, 7);
+}
+
+#genderLabel {
+    font-size: 20px;
+    background-color: rgba(14, 247, 72, 0.938);
+}
+
+.labelClass {
+    color: rgb(110, 32, 105);
+}
+
+#submit {
+    font-size: 15px;
+    background-color: blueviolet;
+}
